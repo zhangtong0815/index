@@ -1,0 +1,5 @@
+# 忽略node-modules文件夹
+/node-modules
+
+# 忽略test.js文件
+test.js
